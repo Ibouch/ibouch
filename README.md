@@ -29,7 +29,7 @@ Passionate and curious **<Blockchain, Full-Stack & Devops developer/>**
 #### Most used technologies:
 
 <img height="38" src="./img/python.png">
-<img height="38" src="./img/c.png">
+<img height="38" src="./img/clang.png">
 <img height="38" src="./img/js.png">
 <img height="38" src="./img/shell.png">
 <img height="38" src="./img/docker.png">
