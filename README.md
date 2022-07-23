@@ -28,13 +28,13 @@ Passionate and curious **<Blockchain, Full-Stack & Devops developer/>**
 
 #### Most used technologies:
 
-<img height="38" src="./img/python.png">
-<img height="38" src="./img/clang.png">
-<img height="38" src="./img/js.png">
-<img height="38" src="./img/shell.png">
-<img height="38" src="./img/docker.png">
-<img height="38" src="./img/mysql.png">
-<img height="38" src="./img/mongodb-logo.png">
+<code><img height="38" src="./img/python.png"></code>
+<code><img height="38" src="./img/clang.png"></code>
+<code><img height="38" src="./img/js.png"></code>
+<code><img height="38" src="./img/shell.png"></code>
+<code><img height="38" src="./img/docker.png"></code>
+<code><img height="38" src="./img/mysql.png"></code>
+<code><img height="38" src="./img/mongodb-logo.png"></code>
 
 ### 📈 Github Stats
 
