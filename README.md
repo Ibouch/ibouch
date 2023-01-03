@@ -8,7 +8,7 @@
 
 <br />
 
-Passionate and curious **<Blockchain, Full-Stack & Devops developer/>**
+Passionate and curious **<Backend & Devops developer/>**
 
 #### My field of expertise includes:
 
